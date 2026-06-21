@@ -327,7 +327,7 @@ WorkLocation
 
 ---
 
-![University ERD](student-mgt-sys-generated.png)
+![University ERD](Student Mgt.jpg)
 
 
 ---
