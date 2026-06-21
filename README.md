@@ -327,7 +327,7 @@ WorkLocation
 
 ---
 
-![University ERD](Student Mgt.jpg)
+![University ERD](Student-Mgt.jpg)
 
 
 ---
